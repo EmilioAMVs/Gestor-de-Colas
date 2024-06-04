@@ -1,0 +1,1 @@
+Creación de un componente simple que envíe un mensaje a una cola al gestor de colas RabbitMQ, el cual recibe el mensaje y lo envia por mail mediante el uso de Google Cloud (Gmail API) para autentificarse y mandar el correo al destinatario establecido
